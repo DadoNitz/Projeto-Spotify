@@ -36,10 +36,121 @@ body {
   .navbar-links li a:hover {
     color: #1DB954;
   }
-  
-  .banner-planos {
-    background-color: rgb(33, 78, 202);
-    height: 370px;
-    margin-top: -21px
 
+  .banner {
+    background-color: rgb(64, 127, 243);
+    padding: 60px;
+    text-align: center;
   }
+
+  .title {
+    font-size: 2rem;
+    margin-top: 0;
+    color: white;
+    font-style: bold;
+  }
+
+  .subtitle {
+    font-size: 1.5rem;
+    font-weight: 600;
+    margin-bottom: 40px;
+    color: white;
+  }
+
+  .button-container {
+    margin-top: 20px;
+  }
+
+  .button-container button {
+    background-color: #1DB954;
+    color: #fff;
+    border: none;
+    padding: 12px 24px;
+    font-size: 16px;
+    font-weight: bold;
+    margin-right: 10px;
+    cursor: pointer;
+    border-radius: 20px;
+  }
+
+  .button-container button:hover {
+    background-color: #14803f;
+  }
+
+  /* ==========motivos do porque ser premium============ */
+
+
+.section {
+  background-color: #f7f7f7;
+  text-align: center;
+  padding: 60px 0;
+  justify-content: space-between;
+}
+
+.section-title {
+  font-size: 2rem;
+  margin-bottom: 40px;
+  color: #333;
+}
+
+.feature {
+  align-items: center;
+  margin-bottom: 40px;
+}
+
+.feature-icon {
+  width: 60px;
+  height: 60px;
+  margin-right: 20px;
+}
+
+.feature-title {
+  font-size: 1.2rem;
+  font-weight: bold;
+}
+
+
+  /* ==========Footer============ */
+
+
+footer {
+  background-color: #111;
+  color: #fff;
+  padding: 20px 0;
+  text-align: center;
+}
+
+.footer-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 20px;
+}
+
+.footer-links ul,
+.footer-social ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+.footer-links ul li,
+.footer-social ul li {
+  display: inline-block;
+  margin-right: 10px;
+}
+
+.footer-links ul li a,
+.footer-social ul li a {
+  color: #fff;
+  text-decoration: none;
+}
+
+.footer-social img {
+  width: 20px;
+  height: 20px;
+}
+
+.footer-bottom {
+  font-size: 12px;
+}
