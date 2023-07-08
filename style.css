@@ -81,16 +81,20 @@ body {
 
 
 .section {
-  background-color: #f7f7f7;
+  background-color: #ffffff;
   text-align: center;
   padding: 60px 0;
-  justify-content: space-between;
+  display: flex;
+  justify-content: center;
+  flex-direction: row;
 }
 
 .section-title {
   font-size: 2rem;
   margin-bottom: 40px;
   color: #333;
+  text-align: center;
+  
 }
 
 .feature {
