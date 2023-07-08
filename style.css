@@ -77,39 +77,39 @@ body {
     background-color: #14803f;
   }
 
-  /* ==========motivos do porque ser premium============ */
-
-
-.section {
-  background-color: #f7f7f7;
-  text-align: center;
-  padding: 60px 0;
-  justify-content: space-between;
-}
-
-.section-title {
-  font-size: 2rem;
-  margin-bottom: 40px;
-  color: #333;
-}
-
-.feature {
-  align-items: center;
-  margin-bottom: 40px;
-}
-
-.feature-icon {
-  width: 60px;
-  height: 60px;
-  margin-right: 20px;
-}
-
-.feature-title {
-  font-size: 1.2rem;
-  font-weight: bold;
-}
-
-
+  /* ========== motivos do porque ser premium============ */
+  .section {
+    background-color: #ffffff;
+    text-align: center;
+    padding: 60px 0;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+  }
+  
+  .section-title {
+    font-size: 3rem;
+    margin-bottom: 40px;
+    color: #000000;
+    justify-items: center ;
+  }
+  
+  .feature {
+    margin-bottom: 40px;
+    align-items: center;
+  }
+  
+  .feature-icon {
+    width: 60px;
+    height: 60px;
+    margin-right: 20px;
+  }
+  
+  .feature-title {
+    font-size: 1.2rem;
+    font-weight: bold;
+  }
+  
   /* ==========Footer============ */
 
 
