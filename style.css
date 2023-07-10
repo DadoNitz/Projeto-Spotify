@@ -88,10 +88,10 @@ body {
   }
   
   .section-title {
-    font-size: 3rem;
-    margin-bottom: 40px;
     color: #000000;
-    justify-items: center ;
+    text-align: center;
+    font-size: 2rem;
+    font-weight: 600;
   }
   
   .feature {
