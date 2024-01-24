@@ -14,7 +14,9 @@ Incluí uma versão ao vivo do projeto para que você possa visualizar e interag
 2. Abra o arquivo `index.html` em seu navegador web.
 
 ## Screenshots
-![image](https://github.com/DadoNitz/Projeto-spotify/assets/107090154/e50ab5f6-af66-4e6b-89cf-af41ace870c9
+
+![image](https://github.com/DadoNitz/Projeto-spotify/assets/107090154/cd63c867-5469-48ea-811e-00567be00ef8)
+![image](https://github.com/DadoNitz/Projeto-spotify/assets/107090154/7426e9c0-812a-49d7-a6a7-3510d844ba04)
 
 ## Contribuições
 Contribuições são bem-vindas! Sinta-se à vontade para abrir issues e pull requests.
